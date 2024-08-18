@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Acc-webpage/static/css/main.d2c24758.css",
+    "main.js": "/Acc-webpage/static/js/main.f5715763.js",
+    "static/media/img.jpg": "/Acc-webpage/static/media/img.948bc5b40e043dbc4a81.jpg",
+    "index.html": "/Acc-webpage/index.html",
+    "main.d2c24758.css.map": "/Acc-webpage/static/css/main.d2c24758.css.map",
+    "main.f5715763.js.map": "/Acc-webpage/static/js/main.f5715763.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d2c24758.css",
+    "static/js/main.f5715763.js"
+  ]
+}
